@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2b0003/WYG/v1/juan/29
+seq: 29
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 前漢紀
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-10 23:07:01.204843'
+  source:
+    repository: kanripo
+    path: KR2b0003/KR2b0003_029.txt
+hash: sha256:40b47c67ceddfd9afbdd8254bd3011e12463cec118673414a17a45a4a38458c2
